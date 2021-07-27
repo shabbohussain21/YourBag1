@@ -8,8 +8,8 @@ const iphone = {
     amount:1
   };
   
-const sumsung = {
-    phone: 'Sumsung A51',
+const samsung = {
+    phone: 'Samsung A51',
     image:'samsung.jpeg',
     price:200.00,
     id:'2',
@@ -32,7 +32,7 @@ const nokia = {
   };
 
   
-  const phones = [iphone,sumsung, nokia,vivo];
+  const phones = [iphone,samsung, nokia,vivo];
 //////////////////////all class////////////////////
 
 
