@@ -166,7 +166,9 @@ body {
   color: var(--primaryColor);
   text-align: center;
 }
-
+.remove-item:hover{
+  color: red;
+}
 /* ---------------End of Products ---------------- */
 
 
@@ -262,6 +264,9 @@ body {
 .fa-chevron-down {
   color: var(--primaryColor);
   cursor: pointer;
+}
+.remove-item:hover{
+  color: red;
 }
 /*---------- End of Cart Item -------------------- */
 
